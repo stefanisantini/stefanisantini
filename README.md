@@ -4,6 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santinistefani/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanisantinireis/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5lhMNq2EopYRpa4a3CxFXQ?si=cc08357ab2344f92/)
 
 ![Stéfani GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanisantini&show_icons=true&theme=radical)
 
