@@ -5,14 +5,14 @@ Sou estudante de Licenciatura em Computação pela Universidade Federal do Tocan
 Como alguém que aprecia a criação de gráficos e planilhas, encontrei minha verdadeira vocação na área de Análise de Dados. Com isso, venho me dedicando intensamente para ingressar nesse campo, buscando sempre aprimorar minhas habilidades e conhecimentos.
 
 Ferramentas que tenho conhecimento:
--✨SAP
--✨Ruby
--✨Python
--✨Selenium IDE 
--✨MySQL
--✨Power BI
--✨Excel
--✨Metodologias Ágeis
+- ✨ SAP
+- ✨ Ruby
+- ✨ Python
+- ✨ Selenium IDE 
+- ✨ MySQL
+- ✨ Power BI
+- ✨ Excel
+- ✨ Metodologias Ágeis
 
 
 - 💻 Entre em contato:
