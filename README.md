@@ -15,7 +15,7 @@ Ferramentas que tenho conhecimento:
 - ✨ Metodologias Ágeis
 
 
-#- 💻 Entre em contato:
+- 💻 #Entre em contato:
 stefani_santini@hotmail.com
 
 
