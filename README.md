@@ -1,4 +1,4 @@
-### Olá! Sou a Stéfani Santini Reis 👋
+### Olá! Sou a Stéfani Santini  👋
 
 Sou estudante de Licenciatura em Computação pela Universidade Federal do Tocantins (UFT). No meu trabalho atual como assistente, tive a oportunidade de adquirir experiência com SAP, o que me proporcionou uma visão mais ampla das tecnologias empresariais.
 
